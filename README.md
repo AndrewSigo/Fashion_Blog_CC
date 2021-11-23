@@ -1,2 +1,2 @@
 # Fashion_Blog_CC
-simple web blog
+A simple web blog from a CodeCademy project
